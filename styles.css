@@ -1,0 +1,13 @@
+h1{
+    color:blue;
+}
+
+.todo{
+    font-size: 30px;
+    color: olive;
+}
+
+.done {
+color: coral;
+opacity: 50%;
+}
